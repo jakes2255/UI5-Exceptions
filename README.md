@@ -6,6 +6,8 @@
 
 Exception handling in SAPUI5
 
+Handling possible scenarios in SAPUI5 via JavaScript Exception Handling mechanism to avoid ugly messages/load time to users.
+
 Can be tailored further for better use.:relaxed:
 
 ## SCN Blog
